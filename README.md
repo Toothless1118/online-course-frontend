@@ -118,4 +118,8 @@ This command will build application using production settings and start the appl
 npm run serve:prod
 ```
 
+#### Checking
+
+Project is running at http://localhost:9000/
+
 ---
