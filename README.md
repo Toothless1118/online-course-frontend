@@ -1,16 +1,6 @@
 # online-course-frontend
 Online Course Frontend
 
-The template consists of:
-
-* a typcial project layout structure
-* a Babel setup and configuration
-* a Webpack setup and configuration
-* an ESLint setup and configuration
-* a SCSS setup and configuration
-* a sample React component to display list codes
-* a Redux setup to handle zip codes state
-* a React Router setup to show basic navigation
 
 ## Getting Started
 
