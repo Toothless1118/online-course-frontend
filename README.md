@@ -73,9 +73,6 @@ dev | prod
 :---: | :---:
 npm run build:dev:bundleanalyze | npm run build:prod:bundleanalyze
 
-After running the above command, a browser window will open displaying an interactive graph resembling the following image:
-
-![webpack bundle analyzer](https://user-images.githubusercontent.com/33935506/36639476-30f9479c-1a16-11e8-9d09-1b80355a089b.png)
 
 #### Build Application With BundleBuddy Plugin Included
 
